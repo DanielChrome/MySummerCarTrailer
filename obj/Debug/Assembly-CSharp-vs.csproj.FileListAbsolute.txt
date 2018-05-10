@@ -1,0 +1,13 @@
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\Temp\bin\Debug\UnityEditor.dll
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\Temp\bin\Debug\UnityEngine.dll
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\Temp\bin\Debug\Mono.Cecil.dll
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\Temp\bin\Debug\Unity.DataContract.dll
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\obj\Debug\Assembly-CSharp.dll
+D:\Games\MODS\My Summer Car\UnitProjecst\Caixao\obj\Debug\Assembly-CSharp.pdb

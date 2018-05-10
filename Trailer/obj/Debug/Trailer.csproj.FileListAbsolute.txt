@@ -1,0 +1,6 @@
+d:\documentos\MySummerCar\Mods\Trailer.dll
+d:\documentos\MySummerCar\Mods\Trailer.pdb
+d:\documentos\visual studio 2017\Projects\Caixao\Caixao\obj\Debug\Trailer.dll
+d:\documentos\visual studio 2017\Projects\Caixao\Caixao\obj\Debug\Trailer.pdb
+D:\Documentos\Visual Studio 2017\Projects\Caixao\Caixao\obj\Debug\Trailer.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\Caixao\Caixao\obj\Debug\Trailer.csproj.CoreCompileInputs.cache

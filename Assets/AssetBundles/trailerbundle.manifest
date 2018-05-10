@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3514586884
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a755c5effe4d323b753296e6ef23d79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ae1edc09c1193519da1baa5e955f7b2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 138
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Materials/tires_gobra.tex.mat
+- Assets/PreFabs/carreta.prefab
+- Assets/Models/Materials/rims_ao.tex.mat
+- Assets/Models/Materials/texturepack.mat
+- Assets/PreFabs/hitch.prefab
+Dependencies: []

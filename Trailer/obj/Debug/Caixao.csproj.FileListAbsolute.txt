@@ -1,0 +1,5 @@
+d:\Documentos\MySummerCar\Mods\Caixao.dll
+d:\Documentos\MySummerCar\Mods\Caixao.pdb
+d:\Documentos\Visual Studio 2017\Projects\Caixao\Caixao\obj\Debug\Caixao.csprojResolveAssemblyReference.cache
+d:\Documentos\Visual Studio 2017\Projects\Caixao\Caixao\obj\Debug\Caixao.dll
+d:\Documentos\Visual Studio 2017\Projects\Caixao\Caixao\obj\Debug\Caixao.pdb
